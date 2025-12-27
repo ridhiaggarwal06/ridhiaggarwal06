@@ -1,14 +1,15 @@
 ## 👋 Hi, I'm Ridhi Aggarwal | Business Analytics & Data Storytelling
 
-# 💫 About Me:
+## About Me
 
-🎓 Background: Business Analytics graduate focused on solving practical business problems.
+- 🎓 Business Analytics graduate focused on solving practical business problems using data  
+- 🔭 Currently working on analytics projects combining SQL, Python, R, and Power BI  
+- 🌱 Currently learning advanced SQL, Power BI storytelling, and product analytics strategy  
+- 🤝 Open to collaborating on data analytics, experimentation, and insight-driven projects  
+- ⚡ Fun fact: I enjoy travelling, exploring new cities, and switching off with jigsaw puzzles
 
-🎯 Currently Learning: Advanced SQL, Power BI storytelling, and product analytics strategy.
 
-🧗 Fun Fact: I love exploring new cities, local viewpoints, and finding the best walking routes.
 
-### 📂 Featured Projects
 
 ### 📂 Featured Projects
 
