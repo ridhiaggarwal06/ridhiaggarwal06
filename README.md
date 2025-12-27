@@ -3,7 +3,9 @@
 # 💫 About Me:
 
 🎓 Background: Business Analytics graduate focused on solving practical business problems.
+
 🎯 Currently Learning: Advanced SQL, Power BI storytelling, and product analytics strategy.
+
 🧗 Fun Fact: I love exploring new cities, local viewpoints, and finding the best walking routes.
 
 ### 📂 Featured Projects
