@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Ridhi Aggarwal | Business Analytics & Data Storytelling
 
-<!--
-**ridhiaggarwal06/ridhiaggarwal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
 
-Here are some ideas to get you started:
+🎓 Background: Business Analytics graduate focused on solving practical business problems.
+🎯 Currently Learning: Advanced SQL, Power BI storytelling, and product analytics strategy.
+🧗 Fun Fact: I love exploring new cities, local viewpoints, and finding the best walking routes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+
+### 📂 Featured Projects
+
+| | | |
+| :--- | :--- | :--- |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=ecommerce-review-prediction&theme=vue)](https://github.com/ridhiaggarwal06/ecommerce-review-prediction) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=AI-driven-Loan-Approval-A-B-test-evaluation&theme=vue)](https://github.com/ridhiaggarwal06/AI-driven-Loan-Approval-A-B-test-evaluation) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=Statistical-Analysis-in-R-&theme=vue)](https://github.com/ridhiaggarwal06/Statistical-Analysis-in-R-) |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=footfall_data_analysis&theme=vue)](https://github.com/ridhiaggarwal06/footfall_data_analysis) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=travel-rag-assistant&theme=vue)](https://github.com/ridhiaggarwal06/travel-rag-assistant) | |
