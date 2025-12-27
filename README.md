@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Ridhi Aggarwal | Business Analyst | Specializing in SQL, Power BI, and Data-Driven Strategy
+### 👋 Hi, I'm Ridhi Aggarwal 
+
+### Business Analyst | Specializing in SQL, Power BI, and Data-Driven Strategy
 
 ### 📊 Turning Data into Actionable Insights
 Business Analytics graduate passionate about bridging the gap between complex data and strategic business decisions.
@@ -36,11 +38,18 @@ Business Analytics graduate passionate about bridging the gap between complex da
 
 ### 📁 Featured Projects
 
+### 📁 Featured Projects
+
 | | |
 | --- | --- |
 | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=ecommerce-review-prediction&theme=radical)](https://github.com/ridhiaggarwal06/ecommerce-review-prediction) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=AI-driven-Loan-Approval-A-B-test-evaluation&theme=radical)](https://github.com/ridhiaggarwal06/AI-driven-Loan-Approval-A-B-test-evaluation) |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=Statistical-Analysis-in-R&theme=radical)](https://github.com/ridhiaggarwal06/Statistical-Analysis-in-R) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=footfall_data_analysis&theme=radical)](https://github.com/ridhiaggarwal06/footfall_data_analysis) |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=Statistical-Analysis-in-R-&theme=radical)](https://github.com/ridhiaggarwal06/Statistical-Analysis-in-R-) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=footfall_data_analysis&theme=radical)](https://github.com/ridhiaggarwal06/footfall_data_analysis) |
 
+<p align="center">
+  <a href="https://github.com/ridhiaggarwal06/travel-rag-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridhiaggarwal06&repo=travel-rag-assistant&theme=radical" alt="Travel RAG Assistant" />
+  </a>
+</p>
 ---
 
 ### 📫 Let's Connect!
