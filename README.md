@@ -47,5 +47,5 @@ I am a **Business Analytics graduate** with a background in **Operational Analys
 ---
 
 ### 📫 Let's Connect!
-[LinkedIn](www.linkedin.com/in/ridhi-aggarwal06) | [Email](mailto:ridhiaggarwal29@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ridhi-aggarwal06) | [Email](mailto:ridhiaggarwal29@gmail.com)
 
