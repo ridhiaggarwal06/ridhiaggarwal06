@@ -39,11 +39,11 @@ I am a **Business Analytics graduate** with a background in **Operational Analys
 
 | 🛍️ [E-commerce Review Prediction](https://github.com/ridhiaggarwal06/ecommerce-review-prediction) | 🏦 [AI Loan Approval A/B Test](https://github.com/ridhiaggarwal06/AI-driven-Loan-Approval-A-B-test-evaluation) |
 | :--- | :--- |
-| **Technical TL;DR:** Engineered an NLP pipeline using **TF-IDF** and **Random Forest** to predict consumer ratings. Focused on feature importance to identify key drivers of customer satisfaction. | **Technical TL;DR:** Evaluated an AI-driven loan system using **Chi-Square tests** for independence and **Conversion Lift** analysis. Optimized the balance between approval rates and potential default risks. |
+| **Technical TL;DR:** Built an **XGBoost classification model** to predict customer sentiment by joining 8 relational datasets (91k+ records). Engineered features from operational metadata and resolved critical data leakage issues to ensure real-world model integrity. | **Technical TL;DR: **Conducted a statistical evaluation of an AI-driven loan model using A/B testing to optimize approval accuracy and default rates. Delivered a Model Risk assessment that identified significant ROI while recommending a phased, hybrid deployment strategy. |
 | 📈 [Statistical Analysis in R](https://github.com/ridhiaggarwal06/Statistical-Analysis-in-R-) | 👣 [Footfall Data Analysis](https://github.com/ridhiaggarwal06/footfall_data_analysis) |
 | **Technical TL;DR:** Built a **Multiple Linear Regression** model to predict property values, validated through rigorous **Heteroscedasticity** and **Multicollinearity (VIF)** testing to ensure statistical integrity. | **Technical TL;DR:** Conducted time-series EDA on urban traffic patterns in York. Leveraged R to identify seasonal trends and retail traffic peaks for staffing optimization. |
 | 🤖 [Travel RAG Assistant](https://github.com/ridhiaggarwal06/travel-rag-assistant) | |
-| **Technical TL;DR:** Architected a **Retrieval-Augmented Generation (RAG)** system using **LangChain** and a vector database. Implemented semantic search for context-aware travel planning. | |
+| **Technical TL;DR:** Developed an end-to-end **RAG system** for travel intelligence using **LLaMA 2 7B** and LangChain. Optimized retrieval through **Semantic Chunking** and **BGE-reranking**, validating performance with **ROUGE metrics** to minimize hallucinations. | |
 ---
 
 ### 📫 Let's Connect!
